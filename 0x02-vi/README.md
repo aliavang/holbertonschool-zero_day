@@ -1,0 +1,1 @@
+In this project, we learn about vi and important basic commands to use. We are also introduced to the person who created vi.
