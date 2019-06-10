@@ -1,0 +1,1 @@
+This project is teaching us how to set up vagrant onto our terminal. We are also learning how to set up git and how to make repositories. Along with repositories, we are learning how to make subfolders to house our projects within the repository.
