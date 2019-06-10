@@ -1,0 +1,1 @@
+In this project, we learn how to set up emacs which is an editing program within the terminal. We also learn important basic commands to use within emacs to help us edit.
